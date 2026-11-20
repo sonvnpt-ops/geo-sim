@@ -1,0 +1,6 @@
+{
+  "name": "GeoSim — Mô phỏng Hình học Trực quan 2D & 3D",
+  "description": "Ứng dụng mô phỏng hình học phẳng 2D và hình học không gian 3D tương tác, tính toán giao tuyến và thiết diện theo thời gian thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
